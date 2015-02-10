@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "saratonite",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"saratonite","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Saratonite :: Blog","url":"http://saratonite.github.io/blog"},"socialnetwork":{"facebook":"sarathtvmala","instagram":"sarathtvmala","github":"saratonite"},"theme":{"name":"Saga","url":"http://saratonite.github.io/blog/themes/Saga"}}
